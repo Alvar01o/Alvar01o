@@ -30,6 +30,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/android/android-original.svg" height="40" alt="android logo"  />
+    <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  
 </div>
 
 ###
