@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -36,6 +36,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/android/android-original.svg" height="40" alt="android logo"  />
     <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+    <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original-wordmark.svg" height="40" alt="bash logo"  />
   
 </div>
 
