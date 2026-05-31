@@ -482,17 +482,21 @@
       display: block;
     }
 
-    .github-stats {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1px;
-      background: var(--border);
+    .github-profile-link {
+      display: inline-block;
+      margin-top: 0;
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      letter-spacing: 0.08em;
+      border: 1px solid var(--border-mid);
+      padding: 0.6rem 1rem;
+      transition: color 0.15s, border-color 0.15s;
     }
-
-    .github-stats img {
-      width: 100%;
-      display: block;
-      background: var(--bg);
+    .github-profile-link:hover {
+      color: var(--accent);
+      border-color: var(--accent);
     }
 
     /* ── FOOTER ── */
@@ -552,7 +556,6 @@
       .contact-card { border: 1px solid var(--border); margin-bottom: 1px; }
 
       .github-section { margin-top: 2rem; padding-top: 2rem; }
-      .github-stats { grid-template-columns: 1fr; }
 
       .lang-switcher { gap: 0; }
       .lang-btn { padding: 0.25rem 0.5rem; font-size: 1rem; }
@@ -895,18 +898,9 @@
             loading="lazy"
           />
         </div>
-        <div class="github-stats">
-          <img
-            src="https://github-readme-stats.vercel.app/api?username=Alvar01o&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=e8fc00&icon_color=e8fc00&text_color=909090&ring_color=e8fc00"
-            alt="GitHub Stats"
-            loading="lazy"
-          />
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvar01o&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e8fc00&text_color=909090&langs_count=6"
-            alt="Top Languages"
-            loading="lazy"
-          />
-        </div>
+        <a href="https://github.com/Alvar01o" target="_blank" class="github-profile-link">
+          View full profile &amp; stats on GitHub →
+        </a>
       </div>
 
     </div>
